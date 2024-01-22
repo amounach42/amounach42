@@ -1,0 +1,1 @@
+<img src="https://badge.mediaplus.ma/darkblue/amounach" alt="amounach's 42 stats" />
